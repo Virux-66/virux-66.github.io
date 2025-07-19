@@ -1,4 +1,4 @@
 baseURL = 'https://virux-66.github.io/'
-languageCode = 'en-us'
-title = 'Simple Blog'
+languageCode = 'zh-CN'
+title = 'Easy Blog'
 theme = 'terminal'
